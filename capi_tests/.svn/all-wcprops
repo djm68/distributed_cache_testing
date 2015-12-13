@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/732/POCs/sabre/capi_tests
+END
+sabre_workflow.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/718/POCs/sabre/capi_tests/sabre_workflow.sh
+END
+md5_mget.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/732/POCs/sabre/capi_tests/md5_mget.c
+END
+verbs_para.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/732/POCs/sabre/capi_tests/verbs_para.c
+END
+atomizer.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/558/POCs/sabre/capi_tests/atomizer.c
+END
+time_mget.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/671/POCs/sabre/capi_tests/time_mget.c
+END
+verbs_ser.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/685/POCs/sabre/capi_tests/verbs_ser.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/686/POCs/sabre/capi_tests/Makefile
+END

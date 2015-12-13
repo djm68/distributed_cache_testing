@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/679/POCs/sabre/daveTest
+END
+destroy_obj.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/646/POCs/sabre/daveTest/destroy_obj.c
+END
+load_get.pl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/620/POCs/sabre/daveTest/load_get.pl
+END
+orgdave.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/620/POCs/sabre/daveTest/orgdave.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/646/POCs/sabre/daveTest/Makefile
+END
+latest.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/679/POCs/sabre/daveTest/latest.c
+END
+create_obj.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/627/POCs/sabre/daveTest/create_obj.c
+END
+hangtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/620/POCs/sabre/daveTest/hangtest.c
+END
+time_get.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/677/POCs/sabre/daveTest/time_get.c
+END
