@@ -157,26 +157,26 @@ void parse_args(int argc, char *argv[])
 
 void usage()
 {
-	printf("md5_mget -h -G -R -U -V -d -s -o num -l num -b num -r num -e num -t num\n");
-	printf("   -h Help; this menu\n");
-	printf("   -G flag to skip get/validate step; useful to fill cache\n");
-	printf("   -R disable random object size; objects will be exactly -b num bytes\n");
-	printf("   -U disable unique key gen - keys will be re-used on 2nd+ loop\n");
-	printf("   -V disable MD5 data validation following get operations\n");
-	printf("   -d flag destroy objects after all puts/gets; default is no deletes\n");
-	printf("   -s flag sleep 100ms before put/get ops\n");
-	printf("   -o num objects to create per loop (default 10)\n");
-	printf("   -l num of loops i.e.: put/get object n number of times\n");
-	printf("   -b max bytes per object (default 1024)\n");
-	printf("   -r ratio of get ops per put op (default 1)\n");
+  printf("md5_mget -h -G -R -U -V -d -s -o num -l num -b num -r num -e num -t num\n");
+  printf("   -h Help; this menu\n");
+  printf("   -G flag to skip get/validate step; useful to fill cache\n");
+  printf("   -R disable random object size; objects will be exactly -b num bytes\n");
+  printf("   -U disable unique key gen - keys will be re-used on 2nd+ loop\n");
+  printf("   -V disable MD5 data validation following get operations\n");
+  printf("   -d flag destroy objects after all puts/gets; default is no deletes\n");
+  printf("   -s flag sleep 100ms before put/get ops\n");
+  printf("   -o num objects to create per loop (default 10)\n");
+  printf("   -l num of loops i.e.: put/get object n number of times\n");
+  printf("   -b max bytes per object (default 1024)\n");
+  printf("   -r ratio of get ops per put op (default 1)\n");
   printf("   -e expire time for objects (ttl) (default 0)\n");
-	printf("   -t number of threads (default 1)\n");
-	printf("\n   Default behaviour:\n");
-	printf("     One get operation per put object \n");
-	printf("     Object keys are unique\n");
-	printf("     Object sizes are random upto -b bytes\n");
-	printf("     Obejcts are left in cache (not destroyed)\n");
-	exit(0);
+  printf("   -t number of threads (default 1)\n");
+  printf("\n   Default behaviour:\n");
+  printf("     One get operation per put object \n");
+  printf("     Object keys are unique\n");
+  printf("     Object sizes are random upto -b bytes\n");
+  printf("     Obejcts are left in cache (not destroyed)\n");
+  exit(0);
 }
 
 /* Logic to determine cache ops to perform */
